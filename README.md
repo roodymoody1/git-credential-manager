@@ -3,7 +3,8 @@
 [![Build Status][build-status-badge]][workflow-status]
 
 ---
-
+# # The Git Credential Manager (GCM) is indeed a vital component in the modern developer's toolkit, particularly for those working with Git repositories. Its primary function is to facilitate a smoother workflow by securely managing authentication credentials. This means developers can focus more on their code rather than on repeatedly entering passwords. The GCM's versatility is one of its strongest points, offering support for a range of authentication protocols such as OAuth, Personal Access Tokens, and the classic username and password combination. This flexibility ensures that it can cater to various platforms and services, including
+# # 
 [Git Credential Manager][gcm] (GCM) is a secure
 [Git credential helper][git-credential-helper] built on [.NET][dotnet] that runs
 on Windows, macOS, and Linux. It aims to provide a consistent and secure
@@ -20,7 +21,7 @@ GCM replaces both the .NET Framework-based
 [Git Credential Manager for Windows][gcm-for-windows] and the Java-based
 [Git Credential Manager for Mac and Linux][gcm-for-mac-and-linux].
 
-## Install
+## Install 
 
 See the [installation instructions][install] for the current version of GCM for
 install options for your operating system.
@@ -54,7 +55,7 @@ Proxy support|&#10003;|&#10003;|&#10003;
 supported by dotnet][dotnet-distributions].
 
 ## Supported Git versions
-
+# # 
 Git Credential Manager tries to be compatible with the broadest set of Git
 versions (within reason). However there are some know problematic releases of
 Git that are not compatible.
